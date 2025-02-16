@@ -217,3 +217,16 @@
 2/16/2025 | 8:20:07 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/16/2025 | 8:20:07 AM | INFO | Trying to activate mining on-chain for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
 2/16/2025 | 8:20:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x15ad6c227eaa4fd6537b168b56d1239373434bdb9b9b4d54a987801e112c24c3 
+2/16/2025 | 12:33:55 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/16/2025 | 12:33:55 PM | INFO | Start process for wallet 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+2/16/2025 | 12:33:56 PM | INFO | Trying To Login for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+2/16/2025 | 12:33:57 PM | INFO | Login successful... 
+2/16/2025 | 12:33:57 PM | INFO | Trying to check user info... 
+2/16/2025 | 12:33:57 PM | INFO | User ID: 193862 | Twitter: @revidachandrika | Total Points: 193300 
+2/16/2025 | 12:33:57 PM | INFO | Trying to check user miner status... 
+2/16/2025 | 12:34:04 PM | INFO | Last mining time: 2/15/2025, 4:23:18 AM
+2/16/2025 | 12:34:04 PM | INFO | Trying to start Mining for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+2/16/2025 | 12:34:07 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+2/16/2025 | 12:34:07 PM | INFO | Trying to activate mining on-chain for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+2/16/2025 | 12:34:15 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"500 Internal Server Error"},"shortMessage":"server response 500 Internal Server Error"}
+2/16/2025 | 12:34:15 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 

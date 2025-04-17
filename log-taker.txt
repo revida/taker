@@ -3568,3 +3568,12 @@
 4/17/2025 | 4:24:37 PM | INFO | Trying to activate mining on-chain for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
 4/17/2025 | 4:26:50 PM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 4:26:50 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:20:38 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:20:38 PM | INFO | Start process for wallet 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+4/17/2025 | 8:20:39 PM | INFO | Trying To Login for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+4/17/2025 | 8:20:40 PM | INFO | Login successful... 
+4/17/2025 | 8:20:40 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:20:41 PM | INFO | User ID: 193862 | Twitter: @revidachandrika | Total Points: 1489300 
+4/17/2025 | 8:20:41 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:20:44 PM | INFO | Last mining time: 4/17/2025, 12:38:27 PM
+4/17/2025 | 8:20:44 PM | WARN | Mining already started, next mining time is: 4/18/2025, 12:38:27 PM

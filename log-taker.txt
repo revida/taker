@@ -4979,3 +4979,16 @@
 5/12/2025 | 12:41:18 PM | INFO | Trying to check user miner status... 
 5/12/2025 | 12:41:22 PM | INFO | Last mining time: 5/12/2025, 4:24:54 AM
 5/12/2025 | 12:41:22 PM | WARN | Mining already started, next mining time is: 5/13/2025, 4:24:54 AM
+5/12/2025 | 4:26:07 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 4:26:07 PM | INFO | Start process for wallet 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+5/12/2025 | 4:26:08 PM | INFO | Trying To Login for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+5/12/2025 | 4:26:08 PM | INFO | Login successful... 
+5/12/2025 | 4:26:08 PM | INFO | Trying to check user info... 
+5/12/2025 | 4:26:09 PM | INFO | User ID: 193862 | Twitter: @revidachandrika | Total Points: 1993300 
+5/12/2025 | 4:26:09 PM | INFO | Trying to check user miner status... 
+5/12/2025 | 4:26:35 PM | INFO | Last mining time: 5/11/2025, 1:44:42 AM
+5/12/2025 | 4:26:35 PM | INFO | Trying to start Mining for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+5/12/2025 | 4:26:37 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/12/2025 | 4:26:37 PM | INFO | Trying to activate mining on-chain for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+5/12/2025 | 4:26:38 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/12/2025 | 4:26:38 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 

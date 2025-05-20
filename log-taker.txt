@@ -5457,3 +5457,12 @@
 5/20/2025 | 12:41:42 PM | INFO | Trying to activate mining on-chain for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
 5/20/2025 | 12:41:47 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e8204655f8307a120832625a082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a039f0ebc3952ab08867df9de7c7b634ebf4ec042bc4449f5d816ed96afa7ebe66a04a51169dfad980e9066dc58aa10abf811f13e008bc6fe2ca143224a7adc1728d","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/20/2025 | 12:41:47 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 8:22:32 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:22:32 PM | INFO | Start process for wallet 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+5/20/2025 | 8:22:33 PM | INFO | Trying To Login for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+5/20/2025 | 8:22:34 PM | INFO | Login successful... 
+5/20/2025 | 8:22:34 PM | INFO | Trying to check user info... 
+5/20/2025 | 8:22:35 PM | INFO | User ID: 193862 | Twitter: @revidachandrika | Total Points: 2161300 
+5/20/2025 | 8:22:35 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:22:35 PM | INFO | Last mining time: 5/20/2025, 4:26:06 PM
+5/20/2025 | 8:22:35 PM | WARN | Mining already started, next mining time is: 5/21/2025, 4:26:06 PM

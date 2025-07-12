@@ -8423,3 +8423,12 @@
 7/12/2025 | 1:49:22 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/12/2025 | 1:49:22 AM | INFO | Trying to activate mining on-chain for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
 7/12/2025 | 1:49:48 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x875c590c3f686d088962e854271657bb10cdc0223d9638c34e72d15517f87049 
+7/12/2025 | 4:31:32 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/12/2025 | 4:31:33 AM | INFO | Start process for wallet 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+7/12/2025 | 4:31:33 AM | INFO | Trying To Login for wallet: 0x0e7B6D6D5c27D656E7CDFac0B83E02762A5a3dd8 
+7/12/2025 | 4:31:34 AM | INFO | Login successful... 
+7/12/2025 | 4:31:34 AM | INFO | Trying to check user info... 
+7/12/2025 | 4:31:35 AM | INFO | User ID: 193862 | Twitter: @revidachandrika | Total Points: 3289300 
+7/12/2025 | 4:31:35 AM | INFO | Trying to check user miner status... 
+7/12/2025 | 4:31:37 AM | INFO | Last mining time: 7/12/2025, 1:49:30 AM
+7/12/2025 | 4:31:37 AM | WARN | Mining already started, next mining time is: 7/13/2025, 1:49:30 AM
